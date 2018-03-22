@@ -1,0 +1,20 @@
+// Bring in Bootstrap
+@import 'vendor/bootstrap';
+
+// variables
+@import 'abstracts/variables';
+
+// components
+@import 'components/navigation';
+@import 'components/parallax';
+@import 'components/footer';
+
+// typography
+@import 'base/typography';
+
+// layout/pages/home
+@import 'layout/pages/home';
+
+
+
+
